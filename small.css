@@ -1,0 +1,9 @@
+#backgroundImage{
+  background-size: cover;
+  height: 30vh;
+}
+#dellofday{
+  display: flex;
+  flex-direction: row;
+ justify-content: space-around;
+}
